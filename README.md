@@ -3,13 +3,9 @@
   </p>
 
 
-  <p align="center">
-    <img src="src/assets/GoRestauranteMobileEnterScreen.png" width="20%" height="20%" max-width:100% >
-    <img src="src/assets/GoRestauranteMobileHomeScreen.png" width="20%" height="20%" max-width:100% >
-  </p>
-
 <h3 align="center">
-  Foi desenvolvido o front-end mobile de uma aplicação de um restaurante, a GoRestaurant, utilizando uma fake API, criada usando o JSON Server, só que dessa vez a versão mobile para utilização pelos clientes.
+  Foi desenvolvida uma aplicação Console no Visual Studio Code referente ao Bootcamp da DIO / Take blib.
+  O objetivo dessa aplicação é fazer o cadastro de Séries usando como persistência de dados uma lista. Foram ultilazados comceitos de classes abstradas, metodos abstrados, interfaces e um CRUD.
 </h3>
 
 <p align="center">
