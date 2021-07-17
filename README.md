@@ -18,7 +18,7 @@
   <a href="#memo-license">Licença</a>
 </p>
 
-Durante as aulas do [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) foram aprendidos conteúdos relacionados a React Native junto com TypeScript, que foram utilizados nesse projeto para criar um pequeno app para pedidos de comida.
+Durante as aulas do [Bootcamp take Blip da DIO](https://digitalinnovation.one/) foram aprendidos conteúdos relacionados a Classes abstradas, metodos abstrados, interfaces e CRUD, que foram utilizados nesse projeto para criar um pequeno app para cadastro de Séries.
 
 ### Funcionalidades
 
