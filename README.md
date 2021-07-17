@@ -8,13 +8,6 @@
   O objetivo dessa aplicação é fazer o cadastro de Séries usando como persistência de dados uma lista. Foram ultilazados comceitos de classes abstradas, metodos abstrados, interfaces e um CRUD.
 </h3>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiagokrathos/go-restaurant-mobile">
-
-  <img alt="GitHub license" src="https://img.shields.io/github/license/thiagokrathos/go-restaurant-mobile">
-
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/thiagokrathos/go-restaurant-mobile?style=social">
-</p>
 
 <p align="center">
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -29,84 +22,41 @@ Durante as aulas do [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/boot
 
 ### Funcionalidades
 
-- Listar os pratos de comida da API;
-- Listar as categorias da API;
-- Filtrar pratos de comida por busca ou por categorias;
-- Listar os pedidos da API;
-- Listar os pratos favoritos da sua API;
-- Realizar um pedido;
-- Adicionar ou reduzir quantidade do prato selecionado no pedido;
-- Adicionar ou reduzir quantidade de itens extras no pedido.
+- Cadastrar Séries;
+- Listar as Séries cadastradas na lista;
+- Inserir Séries;
+- Atualizar Séries;
+- Excluir Séries;
+- Visualizar Séries;
 
 ### :heavy_check_mark: Configurações necessárias
 
 Seguem as configurações neessárias para visualizar a aplicação em sua máquina.
 
--  [Git](https://git-scm.com);
--  [Node](https://nodejs.org/);
--  [Yarn](https://yarnpkg.com/);
--  Ambiente para desenvolvimento mobile configurado conforme sistema operacional utilizado.
+-  [Vs Code](https://code.visualstudio.com/download);
+-  [NET core - Versão 5.0.302](https://dotnet.microsoft.com/download);
+-  Ambiente console application para sistema operacional Windows.
 
 ### :arrow_down_small: Clonando o repositório
 1. Pelo terminal, acesse o diretório em que deseja ter o repositório clonado e execute o comando a seguir.
 ```bash
 # clonando o repositório
-git clone https://github.com/thiagokrathos/go-restaurant-mobile
+git clone https://github.com/Diegototi/series-console-app.git
 ```
 
 ### :beginner: Iniciando a aplicação
-1. Inicialize o emulador ou conecte o dispositivo físico e verifique a disponibilidade em uma janela do terminal.
-```bash
-# verificando dispositivos disponíveis
-adb devices
-```
-2. Pelo terminal, acesse a pasta do repositório clonado e execute os comandos abaixo.
-```bash
-# instalando as dependências
-yarn install
-
-# iniciando a API fictícia
-yarn json-server server.json -p 3333
-
-# instalando a aplicação no dispositivo
-react-native run-android
-
-# iniciando a aplicação
-react-native start
-
-# carregando a aplicação
-digite r no terminal || cmd + r e reload || ctrl + m e reload
-```
-### :mag: Realizando os testes
-1. Foi usado um template que contém testes para orientar o que esperava-se dos blocos de códigos a serem programados;
-2. Para verificar se qualquer alteração realizada atende aos requisitos solicitados, acesse o terminal e execute o seguinte comando:
-```bash
-# testando atendimento aos requisitos
-yarn test
-```
+1. Rodar aplicação
 
 ### :wrench: Tecnologias | Ferramentas | Recursos
 
 Esse projeto foi desenvolvido utilizando os seguintes recursos:
 
--  [Axios](https://github.com/axios/axios);
--  [Axios Mock Adapter](https://github.com/ctimmerm/axios-mock-adapter);
--  [Editor Config](https://editorconfig.org/);
--  [Eslint](https://eslint.org/);
--  [Intl](https://github.com/andyearnshaw/Intl.js/);
--  [Jest](https://jestjs.io/);
--  [Json Server](https://github.com/typicode/json-server);
--  [Prettier](https://prettier.io/);
--  [React](https://pt-br.reactjs.org/);
--  [React Navigation](https://reactnavigation.org/);
--  [React Native](https://reactnative.dev/);
--  [Styled Components](https://styled-components.com/);
--  [Supertest](https://github.com/visionmedia/supertest);
--  [TypeScript](https://www.typescriptlang.org/).
+-  [Vs Code](https://code.visualstudio.com/download);
+-  [NET core - Versão 5.0.302](https://dotnet.microsoft.com/download);
 
 ### :memo: License
-Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/thiagokrathos/go-restaurant-mobile/blob/master/LICENSE) para mais informações.
+Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/Diegototi/series-console-app/blob/main/LICENSE) para mais informações.
 
 ---
 
-Feito por Thiago Almeida :blue_heart: Contato: https://www.linkedin.com/in/thiago-almeida-54140b128/ :blush:
+Feito por Diego Almeida :blue_heart: Contato: https://www.linkedin.com/in/diego-almeida-a8394a215/ :blush:
