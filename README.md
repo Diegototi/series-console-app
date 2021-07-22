@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="assets/menu-principal.png" width="20%" height="20%" max-width:100% >
+    <img src="assets/menu-principal.png" width="35%" height="35%" max-width:100% >
   </p>
 
 
