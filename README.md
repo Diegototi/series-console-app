@@ -5,7 +5,7 @@
 
 <h3 align="center">
   Foi desenvolvida uma aplicação Console no Visual Studio Code referente ao Bootcamp da DIO / Take Blip.
-  O objetivo dessa aplicação é fazer o cadastro de Séries usando como persistência de dados uma lista. Foram ultilazados comceitos de classes abstradas, metodos abstrados, interfaces e um CRUD.
+  O objetivo dessa aplicação é fazer o cadastro de Séries usando como persistência de dados uma lista. Foram utilizados comceitos de classes abstradas, metodos abstrados, interfaces e um CRUD.
 </h3>
 
 
